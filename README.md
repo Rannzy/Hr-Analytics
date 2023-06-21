@@ -23,3 +23,7 @@
  -Single status individuals dominate the organization.
  #
  -The turnover rate of employees was seen to rise in the year 2011 which thereafter there was a steady drop up until 2018. 
+ #
+
+ # DATA VISUALIZATION
+  -I have attached a power bi upload which is a dashboard that reflects the insights obtained from the SQL queries.
